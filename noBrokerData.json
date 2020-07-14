@@ -1,0 +1,18 @@
+[
+	{
+		"deviceCapabilities": {
+			"deviceVersion": "10.0",
+			"deviceName": "Pixel1"
+		},
+		"noBroker": {
+			"city": "Mumbai",
+			"2BHK": "2",
+			"3BHK": "3",
+			"descriptionLabel": "Description"
+		},
+		
+		"platform": {
+			"appType": "mobile"
+		}
+	}
+]
