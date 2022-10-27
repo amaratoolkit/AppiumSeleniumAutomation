@@ -57,8 +57,7 @@ public class BaseTest {
 			//dc.setCapability("appPackage", "com.flipkart.android");
 			// dc.setCapability("appActivity",
 			// "com.nobroker.app.activities.NBSplashScreen");
-			//dc.setCapability("app", System.getProperty("user.dir") + "/mobileApps/Flipkart.apk");
-			dc.setCapability("app", "/Users/sivareddyk/Documents/APK/accella.apk");
+			dc.setCapability("app", System.getProperty("user.dir") + "/mobileApps/Flipkart.apk");
 			dc.setCapability("deviceName", deviceName);
 			dc.setCapability("autoGrantPermissions", "true");
 			dc.setCapability("autoAcceptAlerts", "true");
